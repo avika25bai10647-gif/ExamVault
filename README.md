@@ -6,23 +6,31 @@
 
 # ExamVault – College Exam Resource Sharing System
 
-ExamVault is a Java-based command-line application developed to help college students share and access examination resources in one centralized system.
+ExamVault is a command-line Java application that provides a centralized platform for college students to share and access examination resources.
 
-The application allows students to upload and search for previous question papers, important questions, important topics, and teacher instructions. Resources are organized according to subject, examination, slot group, semester, and academic year.
+Students can upload and find previous question papers, important questions, important topics, and teacher instructions. Resources are organized by subject, exam, slot group, semester, and academic year.
 
-## Key Features
+## OBJECTIVES
+
+- Centralize college examination resources.
+- Share previous question papers and study material.
+- Organize resources according to subject and slot group.
+- Provide quick search and filtering.
+- Apply Java and Object-Oriented Programming concepts to a practical problem.
+
+## FEATURES
 
 - Student Registration and Login
 - Question Paper Upload
 - Important Questions Upload
 - Important Topics Upload
-- Teacher Instructions
-- Browse Resources
-- Search and Filter Resources
-- Slot Group-based Organization
-- File-based Data Storage
+- Teacher Instructions Upload
+- Browse All Resources
+- Search Resources
+- Subject, Exam, Slot Group and Keyword Filtering
+- File-based data storage
 
-## Technologies Used
+## TECHNOLOGIES USED
 
 - Java
 - Object-Oriented Programming
@@ -31,17 +39,9 @@ The application allows students to upload and search for previous question paper
 - Command Line Interface
 - Git & GitHub
 
-## How to Run
-
-### Windows
+## PROJECT STRUCTURE
 
 ```text
-.\run.bat
-```
-Linux / macOS
-chmod +x run.sh
-./run.sh
-Project Structure
 ExamVault/
 ├── README.md
 ├── statement.md
@@ -51,13 +51,43 @@ ExamVault/
 ├── data/
 ├── docs/
 └── uploads/
-Project Documentation
+```
+HOW TO RUN
+Windows
+.\run.bat
+Linux / macOS
+chmod +x run.sh
+./run.sh
+Manual
+javac -d out src/*.java
+java -cp out Main
+TESTING
 
-Detailed information about the problem, requirements, system design, architecture, workflow, testing, and future enhancements is available in the docs/ folder and the project report.
+The application was tested for:
 
-Author
+Registration and Login
+Resource Upload
+Question Paper Upload
+Browse Resources
+Search and Filtering
+Invalid Login Handling
+Invalid File Path Handling
+FUTURE ENHANCEMENTS
+Web-based interface
+Database integration
+Cloud storage
+File preview
+Advanced search
+Mobile application
+REFERENCES
 
-Avika Singh
-B.Tech – Computer Science and Engineering
-Artificial Intelligence and Machine Learning
-VIT Bhopal University
+[1] Oracle Java Documentation
+https://docs.oracle.com/en/java/
+
+[2] Java Documentation
+https://docs.oracle.com/javase/
+
+[3] GitHub Documentation
+https://docs.github.com/
+
+[4] VIT Bhopal University – VITyarthi Project Guidelines
