@@ -1,0 +1,9 @@
+EXAMVAULT TEST QUESTION PAPER
+
+Subject: Java
+Exam: CAT-1
+Slot Group: C11/C12/C13
+
+Q1. Explain inheritance in Java.
+Q2. Explain interfaces with an example.
+Q3. Explain exception handling.
