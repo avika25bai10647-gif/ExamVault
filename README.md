@@ -52,42 +52,61 @@ ExamVault/
 ├── docs/
 └── uploads/
 ```
-HOW TO RUN
-Windows
+## HOW TO RUN
+
+### Windows
+
+```
 .\run.bat
-Linux / macOS
+```
+
+### Linux / macOS
+
+```
 chmod +x run.sh
 ./run.sh
-Manual
+```
+
+### Manual
+
+```
 javac -d out src/*.java
 java -cp out Main
-TESTING
+```
+
+## TESTING
 
 The application was tested for:
 
-Registration and Login
-Resource Upload
-Question Paper Upload
-Browse Resources
-Search and Filtering
-Invalid Login Handling
-Invalid File Path Handling
-FUTURE ENHANCEMENTS
-Web-based interface
-Database integration
-Cloud storage
-File preview
-Advanced search
-Mobile application
-REFERENCES
+- Registration and Login
+- Resource Upload
+- Question Paper Upload
+- Browse Resources
+- Search and Filtering
+- Invalid Login Handling
+- Invalid File Path Handling
+
+## FUTURE ENHANCEMENTS
+
+- Web-based interface
+- Database integration
+- Cloud storage
+- File preview
+- Advanced search
+- Mobile application
+
+## REFERENCES
 
 [1] Oracle Java Documentation
+
 https://docs.oracle.com/en/java/
 
 [2] Java Documentation
+
 https://docs.oracle.com/javase/
 
 [3] GitHub Documentation
+
 https://docs.github.com/
 
 [4] VIT Bhopal University – VITyarthi Project Guidelines
