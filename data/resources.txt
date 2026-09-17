@@ -1,0 +1,6 @@
+1|Java|CAT-1|A11/A12/A13|3|2026|25BAU10647|Important Java Topics||Important Topics|Inheritance, Interfaces, Exception Handling
+2|Java|CAT-1|B11/B12/B13|3|2026|25BAU10647|Important Java Topics|Topics given for CAT-1|Important Topics|Inheritance, Interfaces, Exception Handling
+3|Java|CAT-1|C11/C12/C13|3|2026|25BAU10647|Java CAT-1 Question Paper||Important Topics|Inheritance, Interfaces, Exception Handling
+4|Java|CAT-1|C11/C12/C13|3|2026|25BAU10647|Java CAT-1 Question Paper|Test question paper|Question Paper|uploads\4_Java_CAT1_Test.txt
+5|Java|CAT-1|C11/C12/C13|3|2026|25BAU10647|Important Java Questions|Questions given for CAT-1|Important Questions|Inheritance program, Interface example, Exception handling program
+6|Java|CAT-1|C11/C12/C13|3|2026|25BAU10647|Java CAT-1 Instructions|Teacher instructions|Teacher Instruction|Focus on Module 1 and Module 2
